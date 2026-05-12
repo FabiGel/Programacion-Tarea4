@@ -1,0 +1,4 @@
+[2026-05-11 23:03:42.644417] Cliente agregado correctamente
+[2026-05-11 23:03:42.645586] El nombre no puede estar vacío
+[2026-05-11 23:03:42.646766] Reserva agregada correctamente
+[2026-05-11 23:03:42.647845] La duración debe ser mayor que cero
