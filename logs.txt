@@ -2,3 +2,9 @@
 [2026-05-11 23:03:42.645586] El nombre no puede estar vacío
 [2026-05-11 23:03:42.646766] Reserva agregada correctamente
 [2026-05-11 23:03:42.647845] La duración debe ser mayor que cero
+[2026-05-11 23:10:59.376370] Cliente agregado correctamente
+[2026-05-11 23:10:59.378592] El nombre no puede estar vacío
+[2026-05-11 23:10:59.380895] Reserva agregada correctamente
+[2026-05-11 23:10:59.385133] La duración debe ser mayor que cero
+[2026-05-11 23:10:59.387164] El teléfono debe contener números
+[2026-05-11 23:10:59.389847] El precio debe ser mayor que cero

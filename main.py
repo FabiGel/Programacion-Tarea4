@@ -93,4 +93,37 @@ except Exception as e:
 
     print("Error:", e)
 
+# Cliente con teléfono inválido
+try:
+
+    cliente3 = Cliente(
+        "Carlos",
+        "carlos@gmail.com",
+        "telefono"
+    )
+
+    sistema.agregar_cliente(cliente3)
+
+except Exception as e:
+
+    registrar_log(str(e))
+
+    print("Error:", e)
+
+
+# Servicio con precio inválido
+try:
+
+    servicio_error = ReservaSala(
+        "Sala incorrecta",
+        -100
+    )
+
+except Exception as e:
+
+    registrar_log(str(e))
+
+    print("Error:", e)
+
+
 print("Sistema funcionando correctamente")
