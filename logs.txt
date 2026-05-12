@@ -22,3 +22,10 @@
 [2026-05-11 23:28:36.721758] El teléfono debe contener números
 [2026-05-11 23:28:36.724385] El precio debe ser mayor que cero
 [2026-05-11 23:28:36.728041] Correo inválido
+[2026-05-11 23:47:57.847006] Cliente agregado correctamente
+[2026-05-11 23:47:57.856461] El nombre no puede estar vacío
+[2026-05-11 23:47:57.858799] Reserva agregada correctamente
+[2026-05-11 23:47:57.861868] La duración debe ser mayor que cero
+[2026-05-11 23:47:57.864142] El teléfono debe contener números
+[2026-05-11 23:47:57.866235] El precio debe ser mayor que cero
+[2026-05-11 23:47:57.868733] Correo inválido
