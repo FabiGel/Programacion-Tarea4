@@ -8,3 +8,17 @@
 [2026-05-11 23:10:59.385133] La duración debe ser mayor que cero
 [2026-05-11 23:10:59.387164] El teléfono debe contener números
 [2026-05-11 23:10:59.389847] El precio debe ser mayor que cero
+[2026-05-11 23:24:11.604038] Cliente agregado correctamente
+[2026-05-11 23:24:11.606692] El nombre no puede estar vacío
+[2026-05-11 23:24:11.609477] Reserva agregada correctamente
+[2026-05-11 23:24:11.611711] La duración debe ser mayor que cero
+[2026-05-11 23:24:11.614504] El teléfono debe contener números
+[2026-05-11 23:24:11.616898] El precio debe ser mayor que cero
+[2026-05-11 23:24:11.619570] Correo inválido
+[2026-05-11 23:28:36.710607] Cliente agregado correctamente
+[2026-05-11 23:28:36.713160] El nombre no puede estar vacío
+[2026-05-11 23:28:36.716377] Reserva agregada correctamente
+[2026-05-11 23:28:36.719056] La duración debe ser mayor que cero
+[2026-05-11 23:28:36.721758] El teléfono debe contener números
+[2026-05-11 23:28:36.724385] El precio debe ser mayor que cero
+[2026-05-11 23:28:36.728041] Correo inválido
